@@ -63,6 +63,7 @@ public class Main {
             }
         }
         System.out.println("массивы одинаковые");
+
     }
 
     static void simple(float[] arr, int from){
